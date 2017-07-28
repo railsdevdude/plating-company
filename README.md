@@ -1,15 +1,16 @@
 # README
 
-Here goes my very first Rails project. Very exciting! I'm building a site for a Arlington Paving & Sealcoating, one of Texas's top [Local Asphalt Companies](http://www.asphaltpavingarlingtontx.com) who requires a special app to be developed using rails. 
+I'm working on a new rails project for a national [Plating Comapany](http://mpp.net/process/plating/) called Mirror Polishing & Plating Company Inc. The company specializes in chrome roll plating, polishing, grinding and surface finishing. 
 
-This is not the first site I've built for local paving companies around Arlington Texas but it's definitly the first rails project for one! Typically when I work with one of the local asphalt contractors, I use WordPress to build the site in an effort to dominate local search and generate leads for the company I'm working with. But now we're working on something a bit more advanced that requires something like rails to build. 
+This is my first time working with a plating company and I have to say it's quite an experience. I initially built them a wordpress website and now they are requesting that I build a custom application with rails to handle chrome plating projects. The plating process is quite fascinating actually and I'm learning a lot. Mirror Polishing & Plating Company Inc. is actually one of the only facilities in the U.S. (their facility is over 85,000 sq ft!) that can handle rolls up to 12 ft in diameter and 50 ft in length.  
 
-I'm excited to work with one of the best paving companies in Arlington, Texas who happens to serve a 50 mile radius providing commercial and residential paving in Houston, San Antonio, Corpus Christi, Harlingen and the Dallas For Worth Area. 
+It's exciting to not only help MPP with their website and marketing but to also get an inside look into this industry, their process and their incredible facility. In addition to hard chrome plating, MPP also does roll surface finishing, roll repair, roll fabrication and roll grinding (they have precision roll grinders). My job is to build their online presence and bring in the right kind of traffic for these search terms. 
 
-## Local Asphalt Companies - a challenging phrase
+## MPP – A Leading Plating Company
 
-My job working the Arlington Paving & Sealcoating is not only to build an amazing website and custom application to help run their business – it's also to generate leads mostly through Adwords and with Adwords, I've learned that 2 of the best phrases to get traffic for are [Local Paving Contractors Arlington](http://www.asphaltpavingarlingtontx.com/) and [Arlington Sealcoating Companies](http://www.asphaltpavingarlingtontx.com/)
+Mirror Polishing & Plating Company Inc. are leaders in their industry but it is still a challenge to get the right traffic to their site. We're attempting to bring in visitors for phrases such as [Industrial Chrome Plating](http://mpp.net/process/plating/) but it's a challenge. 
 
-It's a challenge but I love it. Now time to build this amazing rails app so I can add more value to the companies I work with!
+As challenging as it is, I'm excited to be working with this amazing roll plating company and look forward to growing together!
 
-![Local Driveway Pavers Arlington Texas](http://www.asphaltpavingarlingtontx.com/uploads/8/7/3/6/87366596/arlington-paving-sealcoating_orig.png)
+
+![Plating Company](http://mpp.net/wp-content/themes/mpp/library/images/homepage_intro_pic1.jpg)
